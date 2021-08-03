@@ -16,7 +16,7 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5690a9100ec14344b2b1dfbd95e824af.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F1YW50dW1Zb3U=,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/201aa917e20a4c3787e6b13a46be1578.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F1YW50dW1Zb3U=,size_16,color_FFFFFF,t_70)
- 
+
 #  网络层设备
 ## 路由器
 - 路由器是一种具有多个输入端口和多个输出端口的专用计算机，其任务是转发分组。
@@ -47,4 +47,11 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f8746113bc664fdda714d346a27c6e10.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F1YW50dW1Zb3U=,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4587cb8b2f8b40229be08b1f5e56befe.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F1YW50dW1Zb3U=,size_16,color_FFFFFF,t_70)
+
+| 单位       | 范围（十六进制） |
+| ---------- | ---------------- |
+| 比特（位） | 0、1             |
+| 字节       | 0~0xFF           |
+| 字         | 0~0xFFFF         |
+| 双字       | 0~0xFFFFFFF      |
 
